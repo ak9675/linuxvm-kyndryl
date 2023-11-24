@@ -1,7 +1,7 @@
 variable "rg_name" {
-  #default = "defaultrg"
+  default = "defaultrg"
 }
 
 variable "vmname" {
-  #default = "defaultvm"
+  default = "defaultvm"
 }
